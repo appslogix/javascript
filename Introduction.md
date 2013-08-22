@@ -45,4 +45,12 @@ Behaviour seperation. Behaviour calls for structure to be seperated from style. 
 
 JavaScript is Unobstructive, meaning that any use of JavaScript will fail in a graceful manner. Not assuming that JavaScript will be available, the unobsructive scripter must make sure that the Web page or application will function without JavaScript or use proper methods to ensure that JavaScript is available if its actually required.
 
+DATA TYPES
 
+- Numbers
+- Strings
+- Booleans
+- Null
+- Undefined
+- Objects
+- 
